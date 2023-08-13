@@ -1,4 +1,8 @@
-### Hi there 👋
+### Hi there 👋 I'm epan
+
+- 🌱 I’m currently learning about android, kotlin, etc.
+- 👯 I’m looking to collaborate on android project.
+- 📫 How to reach me: (instagram) @epanfitrian
 
 <!--
 **emmpann/emmpann** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
